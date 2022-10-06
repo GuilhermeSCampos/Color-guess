@@ -37,7 +37,7 @@ console.log(correctAnswer);
 
   return (
     <div className="App">
-      <h1 className='title'>Advinhe a Cor</h1>
+      <h1 className='title'>Color Guess</h1>
       <div className="boxColor" style={{"backgroundColor": correctAnswer}}/>
       <div className='Buttons'>
       <button onClick={(target) => buttonHandle(target)} className='btn'>{colors[0].toUpperCase()}</button>
