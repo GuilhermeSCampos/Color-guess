@@ -31,4 +31,4 @@ $ npm install
 # Start the client
 $ npm start
 ```
-## Or just go to https://color-guess-pi.vercel.app/
+### Deploy on Vercel --> https://color-guess-pi.vercel.app/
